@@ -1,13 +1,17 @@
-# lupinum: Web | Video | Design
+# lupinum: Digital Knowledge Design
 
-## About
+👋 Hi, we are Matthias und Romi from Lupinum!
+ 
+We help experts, coaches, and service professionals share their expertise online effectively. Our solutions let your knowledge work for you 24/7.
 
-- **Save valuable time**: Focus on the essentials! Our self-explanatory information concepts reduce the need for repetitive explanations and free up time for your core business..
+## What We Do
 
-- **Increase your turnover**: Unleash the potential of your website! With our sales-optimized online presences, your platform becomes a sales driver. Turn interested parties into enthusiastic customers.
+**Digital Knowledge Systems:** Build clear online spaces that showcase your expertise
+**Smart Content Strategy:** Create materials that help clients understand and act
+**Custom Tech Solutions:** Develop systems that grow with you
 
-- **Inspire your audience**: Leave a lasting impression! Captivating videos, gripping texts and unique design, let your brand shine.
+📍 Based in Austria 🇦🇹 
+💬 German | English
+🌐 www.lupinum.com
 
-- **Ensure your success**: All-round carefree success! Our holistic optimization strategies and continuous analyses ensure that you remain a permanent leader.
-
-Check [our Website](https://www.lupinum.com) to learn more.
+💡 Always open for exciting conversations about digital knowledge transfer!
